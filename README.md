@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Isha</h1>
 <h3 align="center">I'm Isha, a BTech Computer Science student passionate about coding, problem-solving, and building innovative projects. I enjoy working with C ,Python ,HTML and exploring new technologies.</h3>
 
